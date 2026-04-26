@@ -1,0 +1,29 @@
+{
+  "valid": [
+    {
+      "key": "HXS-2024-A1B2C3D4",
+      "owner": "Customer 1",
+      "hwid": null,
+      "expiry": "2025-12-31",
+      "active": true,
+      "created": "2024-01-15"
+    },
+    {
+      "key": "HXS-2024-X9Y8Z7W6",
+      "owner": "Customer 2",
+      "hwid": "abc123def456",
+      "expiry": "2025-06-30",
+      "active": true,
+      "created": "2024-03-20"
+    }
+  ],
+  "blocked": [
+    "HXS-OLD-LEAKED-KEY1",
+    "HXS-OLD-LEAKED-KEY2"
+  ],
+  "settings": {
+    "maintenance": false,
+    "message": "",
+    "version": "1.0.0"
+  }
+}
