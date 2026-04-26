@@ -1,0 +1,12 @@
+{
+  "name": "hxs-license-server",
+  "version": "1.0.0",
+  "description": "HXS License Validation Server",
+  "main": "api/validate.js",
+  "scripts": {
+    "start": "node api/validate.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
